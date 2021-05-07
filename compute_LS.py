@@ -102,4 +102,9 @@ if __name__ == '__main__':
     print('gen #:   '+str(len(gen)))
 
     print('\n', 'LS= ', LS(real, gen))  # CPU ver.
-    # print('\n', 'LS= ', gpu_LS(real, gen))  # GPU ver.
+    print('\n', 'LS= ', gpu_LS(real, gen))  # GPU ver.
+
+    
+    
+    
+    
