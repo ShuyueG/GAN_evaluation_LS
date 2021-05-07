@@ -15,7 +15,9 @@ Related paper
 Time Complexity
 =============
 Data: 2000 real images and 2000 generated images from CIFAR-10 dataset (32x32 RGB images).
+
 CPU: i7-6900K
+
 GPU: GTX 1080Ti
 
 - `CPU ver.` 110.859 s
