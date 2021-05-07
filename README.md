@@ -2,7 +2,7 @@ A Novel Evaluation to GANs
 =============
 This is an example of computing the Likeness Score: LS on datasets of real images and generated images by GANs.
 
-It includes codes to compute the *2-class* distance-based separability index (DSI). LS=1-DSI. There are two versions (CPU and GPU).
+It includes codes to compute the *2-class* distance-based separability index (DSI). **LS=1-DSI**. There are two versions (CPU and GPU).
 
 Related paper
 =============
