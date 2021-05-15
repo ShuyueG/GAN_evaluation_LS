@@ -8,9 +8,9 @@ Related paper
 =============
 ### A Novel Measure to Evaluate Generative Adversarial Networks Based on Direct Analysis of Generated Images
 
-[In press] Neural Computing and Applications, 2021
+`Citation` Guan, S., Loew, M. A novel measure to evaluate generative adversarial networks based on direct analysis of generated images. Neural Comput & Applic (2021). doi: 10.1007/s00521-021-06031-5.
 
-[`Arxiv`](https://arxiv.org/abs/2002.12345)
+[`Paper`](https://doi.org/10.1007/s00521-021-06031-5)  [`Arxiv`](https://arxiv.org/abs/2002.12345)
 
 Time Complexity
 =============
