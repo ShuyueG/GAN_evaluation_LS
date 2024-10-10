@@ -5,8 +5,8 @@ It includes codes to compute the *2-class* distance-based separability index (DS
 Inputs:             Two folders have real images and generated images
 
 Related paper:      A Novel Measure to Evaluate Generative Adversarial Networks Based on Direct Analysis of Generated Images
-                    [In press] Neural Computing and Applications, 2021
-                    https://arxiv.org/abs/2002.12345
+                    Neural Computing and Applications, 2021
+                    https://doi.org/10.1007/s00521-021-06031-5
                     
 By:                 Shuyue Guan
                     https://shuyueg.github.io/
